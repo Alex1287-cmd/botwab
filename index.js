@@ -208,7 +208,7 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"6288221608614@s.whatsapp.net"//GANTI NOMOR LU
+			"628881393308@s.whatsapp.net"//GANTI NOMOR LU
 			]
 			premium = [
 			"6288221608614@s.whatsapp.net","6283102650464@s.whatsapp.net"//GANTI NOMOR YAG MAU DI PREM, GABISA NYIMPEN DI DATABASE!!
